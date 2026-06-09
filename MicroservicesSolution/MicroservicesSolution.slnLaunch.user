@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Services\\ProductService\\ProductService.API\\ProductService.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Gateway\\Gateway.API\\Gateway.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "Identity (SSO)\\Identity.API\\Identity.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Innosystech_Pc_50\\.gemini\\antigravity\\scratch\\MicroservicesSolution\\Gateway\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BCFAA98-DDD8-46E6-B866-362AA856251E}|Gateway.API\\Gateway.API.csproj|c:\\users\\innosystech_pc_50\\.gemini\\antigravity\\scratch\\microservicessolution\\gateway\\gateway.api\\gateway.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0BCFAA98-DDD8-46E6-B866-362AA856251E}|Gateway.API\\Gateway.API.csproj|solutionrelative:gateway.api\\gateway.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Gateway.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Innosystech_Pc_50\\.gemini\\antigravity\\scratch\\MicroservicesSolution\\Gateway\\Gateway.API\\Gateway.API.csproj",
+              "RelativeDocumentMoniker": "Gateway.API\\Gateway.API.csproj",
+              "ToolTip": "C:\\Users\\Innosystech_Pc_50\\.gemini\\antigravity\\scratch\\MicroservicesSolution\\Gateway\\Gateway.API\\Gateway.API.csproj",
+              "RelativeToolTip": "Gateway.API\\Gateway.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-05T05:11:55.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{c6f34f0d-7ae5-4f3a-be61-fe0c21ae9eb8}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

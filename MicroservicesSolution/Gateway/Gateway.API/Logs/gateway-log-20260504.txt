@@ -1,0 +1,18 @@
+2026-05-04 15:38:14.144 +05:30 [INF] Loading proxy data from config.
+2026-05-04 15:38:42.794 +05:30 [INF] Proxying to http://localhost:49693/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-05-04 15:38:42.919 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-05-04 15:49:59.443 +05:30 [INF] Loading proxy data from config.
+2026-05-04 15:50:18.938 +05:30 [INF] Proxying to http://localhost:49693/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-05-04 15:50:19.083 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-05-04 15:50:44.522 +05:30 [INF] Proxying to http://localhost:49693/auth/login HTTP/2 RequestVersionOrLower 
+2026-05-04 15:50:44.976 +05:30 [INF] Received HTTP/1.1 response 500.
+2026-05-04 15:52:54.111 +05:30 [INF] Loading proxy data from config.
+2026-05-04 15:53:09.182 +05:30 [INF] Proxying to http://localhost:49693/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-05-04 15:53:09.359 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-05-04 15:53:41.193 +05:30 [INF] Proxying to http://localhost:49693/auth/login HTTP/2 RequestVersionOrLower 
+2026-05-04 15:53:41.670 +05:30 [INF] Received HTTP/1.1 response 500.
+2026-05-04 16:03:01.593 +05:30 [INF] Loading proxy data from config.
+2026-05-04 16:03:16.249 +05:30 [INF] Proxying to http://localhost:49693/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-05-04 16:03:16.428 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-05-04 16:03:38.494 +05:30 [INF] Proxying to http://localhost:49693/auth/login HTTP/2 RequestVersionOrLower 
+2026-05-04 16:04:04.439 +05:30 [INF] Received HTTP/1.1 response 200.

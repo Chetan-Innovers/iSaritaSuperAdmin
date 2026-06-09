@@ -1,0 +1,3 @@
+2026-06-09 17:45:36.774 +05:30 [INF] New citizen registered: admin
+2026-06-09 17:47:41.410 +05:30 [INF] Citizen logged in successfully: admin
+2026-06-09 17:55:02.062 +05:30 [INF] Citizen logged in successfully: admin

@@ -1,0 +1,74 @@
+2026-06-09 17:43:15.668 +05:30 [INF] Loading proxy data from config.
+2026-06-09 17:43:41.743 +05:30 [INF] Loading proxy data from config.
+2026-06-09 17:44:03.893 +05:30 [INF] Proxying to http://localhost:49693/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:44:04.023 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:44:06.192 +05:30 [INF] Proxying to http://localhost:49688/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:44:06.266 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:44:17.526 +05:30 [INF] Proxying to http://localhost:49692/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:44:21.596 +05:30 [WRN] "Request": An error was encountered before receiving a response.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:49692)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Yarp.ReverseProxy.Forwarder.HttpForwarder.SendAsync(HttpContext context, String destinationPrefix, HttpMessageInvoker httpClient, ForwarderRequestConfig requestConfig, HttpTransformer transformer, CancellationToken cancellationToken)
+2026-06-09 17:44:25.357 +05:30 [INF] Proxying to http://localhost:49694/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:44:29.429 +05:30 [WRN] "Request": An error was encountered before receiving a response.
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:49694)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.DiagnosticsHandler.SendAsyncCore(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Yarp.ReverseProxy.Forwarder.HttpForwarder.SendAsync(HttpContext context, String destinationPrefix, HttpMessageInvoker httpClient, ForwarderRequestConfig requestConfig, HttpTransformer transformer, CancellationToken cancellationToken)
+2026-06-09 17:44:32.781 +05:30 [INF] Proxying to http://localhost:49693/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:44:32.812 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:45:34.191 +05:30 [INF] Proxying to http://localhost:49693/auth/register/citizen HTTP/2 RequestVersionOrLower 
+2026-06-09 17:45:36.881 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:46:21.645 +05:30 [INF] Proxying to http://localhost:49688/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:46:21.688 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:46:51.865 +05:30 [INF] Proxying to http://localhost:49693/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:46:51.898 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:47:38.627 +05:30 [INF] Proxying to http://localhost:49693/auth/login/citizen HTTP/2 RequestVersionOrLower 
+2026-06-09 17:47:41.420 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:48:55.604 +05:30 [INF] Proxying to http://localhost:49688/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:48:55.630 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:50:04.178 +05:30 [INF] Proxying to http://localhost:49693/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:50:04.273 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:50:59.758 +05:30 [INF] Proxying to http://localhost:49688/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:50:59.866 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:52:24.355 +05:30 [INF] Proxying to http://localhost:49693/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:52:24.761 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:52:40.582 +05:30 [INF] Proxying to http://localhost:49688/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:52:40.675 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:54:54.192 +05:30 [INF] Proxying to http://localhost:49693/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:54:54.302 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:55:00.097 +05:30 [INF] Proxying to http://localhost:49693/auth/login/citizen HTTP/2 RequestVersionOrLower 
+2026-06-09 17:55:02.077 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:55:20.891 +05:30 [INF] Proxying to http://localhost:49688/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:55:20.967 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:55:51.695 +05:30 [INF] Proxying to http://localhost:49693/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:55:51.776 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:55:57.065 +05:30 [INF] Proxying to http://localhost:49688/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 17:55:57.117 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 17:56:21.481 +05:30 [INF] Proxying to http://localhost:49688/HealthCheck HTTP/2 RequestVersionOrLower 
+2026-06-09 17:56:28.131 +05:30 [INF] Received HTTP/1.1 response 200.
+2026-06-09 18:08:37.599 +05:30 [INF] Proxying to http://localhost:49693/swagger/v1/swagger.json HTTP/2 RequestVersionOrLower 
+2026-06-09 18:08:37.723 +05:30 [INF] Received HTTP/1.1 response 200.
