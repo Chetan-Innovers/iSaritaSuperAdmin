@@ -1,0 +1,17 @@
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.deps.json
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.dll
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Infrastructure.pdb
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Application.dll
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Domain.dll
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Application.pdb
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\bin\Debug\net8.0\UserService.Domain.pdb
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.AssemblyInfo.cs
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserServ.28B62BA0.Up2Date
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.dll
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\obj\Debug\net8.0\refint\UserService.Infrastructure.dll
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\obj\Debug\net8.0\UserService.Infrastructure.pdb
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\UserService\UserService.Infrastructure\obj\Debug\net8.0\ref\UserService.Infrastructure.dll

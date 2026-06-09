@@ -1,0 +1,15 @@
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\bin\Debug\net8.0\OrderService.Application.deps.json
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\bin\Debug\net8.0\OrderService.Application.dll
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\bin\Debug\net8.0\OrderService.Application.pdb
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\bin\Debug\net8.0\OrderService.Domain.dll
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\bin\Debug\net8.0\OrderService.Domain.pdb
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.csproj.AssemblyReference.cache
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.AssemblyInfoInputs.cache
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.AssemblyInfo.cs
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.csproj.CoreCompileInputs.cache
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderSer.7EAAA39B.Up2Date
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.dll
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\obj\Debug\net8.0\refint\OrderService.Application.dll
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\obj\Debug\net8.0\OrderService.Application.pdb
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\OrderService\OrderService.Application\obj\Debug\net8.0\ref\OrderService.Application.dll

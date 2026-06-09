@@ -1,0 +1,11 @@
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\ProductService\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.deps.json
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\ProductService\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.dll
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\ProductService\ProductService.Domain\bin\Debug\net8.0\ProductService.Domain.pdb
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.AssemblyInfoInputs.cache
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.AssemblyInfo.cs
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.dll
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\ProductService\ProductService.Domain\obj\Debug\net8.0\refint\ProductService.Domain.dll
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\ProductService\ProductService.Domain\obj\Debug\net8.0\ProductService.Domain.pdb
+C:\Users\Innosystech_Pc_50\.gemini\antigravity\scratch\MicroservicesSolution\Services\ProductService\ProductService.Domain\obj\Debug\net8.0\ref\ProductService.Domain.dll
