@@ -1,0 +1,6 @@
+@iSaritaSuperAdmin_HostAddress = http://localhost:5010
+
+GET {{iSaritaSuperAdmin_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
