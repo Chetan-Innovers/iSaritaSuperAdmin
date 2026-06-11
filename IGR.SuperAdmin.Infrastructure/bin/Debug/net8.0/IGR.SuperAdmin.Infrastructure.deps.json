@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "IGR.SuperAdmin.Infrastructure/1.0.0": {
+        "dependencies": {
+          "IGR.SuperAdmin.Application": "1.0.0"
+        },
+        "runtime": {
+          "IGR.SuperAdmin.Infrastructure.dll": {}
+        }
+      },
+      "IGR.SuperAdmin.Application/1.0.0": {
+        "runtime": {
+          "IGR.SuperAdmin.Application.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IGR.SuperAdmin.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "IGR.SuperAdmin.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

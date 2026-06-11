@@ -1,0 +1,6 @@
+@IGR.SuperAdmin.API_HostAddress = http://localhost:5152
+
+GET {{IGR.SuperAdmin.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
