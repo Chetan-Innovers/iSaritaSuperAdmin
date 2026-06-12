@@ -1,0 +1,11 @@
+IGR.SuperAdmin.API/.vs/IGR.SuperAdmin.API/v18/.suo
+*.dll
+*.pdb
+*.exe
+*.user
+*.cache
+/IGR.SuperAdmin.API/obj
+*.txt
+*.vsidx
+/IGR.SuperAdmin.API/.vs
+*.Up2Date
