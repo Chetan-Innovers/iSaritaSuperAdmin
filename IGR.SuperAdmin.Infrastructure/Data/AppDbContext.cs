@@ -1,4 +1,5 @@
 ﻿using IGR.SuperAdmin.Application.EmployeeManagement.Models;
+using IGR.SuperAdmin.Application.RoleManagement.Models;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
@@ -17,10 +18,12 @@ namespace IGR.SuperAdmin.Infrastructure.Data
         }
 
         public DbSet<EmployeeMaster> EmployeeMasters { get; set; }
+        public DbSet<RoleMaster> RoleMasters { get; set; }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             modelBuilder.Entity<EmployeeMaster>().ToTable("employee_master");
+            modelBuilder.Entity<RoleMaster>().ToTable("role_master");
             base.OnModelCreating(modelBuilder);
         }
     }

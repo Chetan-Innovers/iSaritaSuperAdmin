@@ -19,3 +19,11 @@ IGR.SuperAdmin.API/.vs/IGR.SuperAdmin.API/v18/.suo
 /IGR.SuperAdmin.Infrastructure/obj
 IGR.SuperAdmin.API/bin/Debug/net8.0/appsettings.json
 /IGR.SuperAdmin.Infrastructure/obj
+/IGR.SuperAdmin.Application/bin
+/IGR.SuperAdmin.API/bin
+/IGR.SuperAdmin.API/bin
+IGR.SuperAdmin.API/bin/Debug/net8.0/IGR.SuperAdmin.API.deps.json
+/IGR.SuperAdmin.Application/bin
+/IGR.SuperAdmin.Application/obj
+IGR.SuperAdmin.Application/obj/IGR.SuperAdmin.Application.csproj.nuget.g.props
+/IGR.SuperAdmin.Application/obj

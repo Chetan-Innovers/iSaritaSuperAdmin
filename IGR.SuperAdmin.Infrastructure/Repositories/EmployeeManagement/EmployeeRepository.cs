@@ -21,7 +21,7 @@ namespace IGR.SuperAdmin.Infrastructure.Repositories.EmployeeManagement
         public async Task<bool> EmployeeExistsAsync(string username)
         {
             return await _context.EmployeeMasters
-        .AnyAsync(x => x.username.ToLower() == username.ToLower());
+        .AnyAsync(x => x.Username.ToLower() == username.ToLower());
         }
     }
 }
