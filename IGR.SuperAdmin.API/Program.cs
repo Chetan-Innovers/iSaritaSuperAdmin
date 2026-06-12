@@ -1,4 +1,10 @@
 
+using IGR.SuperAdmin.Application.EmployeeManagement.Interfaces;
+using IGR.SuperAdmin.Application.EmployeeManagement.Services;
+using IGR.SuperAdmin.Infrastructure.Data;
+using IGR.SuperAdmin.Infrastructure.Repositories.EmployeeManagement;
+using Microsoft.EntityFrameworkCore;
+
 namespace IGR.SuperAdmin.API
 {
     public class Program
@@ -8,9 +14,18 @@ namespace IGR.SuperAdmin.API
             var builder = WebApplication.CreateBuilder(args);
 
             // Add services to the container.
-
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+            // Register Entity Framework Core with PostgreSQL
+            builder.Services.AddDbContext<AppDbContext>(options =>
+                options.UseNpgsql(
+                    builder.Configuration.GetConnectionString("DefaultConnection")));
+
+            // Register Repository and Service
+            builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+            builder.Services.AddScoped<IEmployeeService, EmployeeService>();
+
+            // Swagger
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
