@@ -122,5 +122,20 @@ namespace IGR.SuperAdmin.Application.EmployeeManagement.Models
 
         [Column("version_no")]
         public int VersionNo { get; set; }
+
+        [Column("current_address")]
+        public string? CurrentAddress { get; set; }
+
+        [Column("permanent_address")]
+        public string? PermanentAddress { get; set; }
+
+        [Column("pincode")]
+        public long? Pincode { get; set; }
+
+        [Column("security_question")]
+        public string? SecurityQuestion { get; set; }
+
+        [Column("security_answer")]
+        public string? SecurityAnswer { get; set; }
     }
 }

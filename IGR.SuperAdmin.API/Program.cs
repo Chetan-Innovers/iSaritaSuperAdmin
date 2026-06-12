@@ -41,6 +41,12 @@ namespace IGR.SuperAdmin.API
             builder.Services.AddScoped<IRoleMasterService, RoleMasterService>();
             builder.Services.AddScoped<ILoginRepository, LoginRepository>();
             builder.Services.AddScoped<ILoginService, LoginService>();
+            builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
+            builder.Services.AddScoped<IMasterRepository,MasterRepository>();
+            builder.Services.AddScoped<ILocationRepository, LocationRepository>();
+            builder.Services.AddScoped<IEmployeeService, EmployeeService>();
+            builder.Services.AddScoped<IMasterService, MasterService>();
+            builder.Services.AddScoped<ILocationService, LocationService>();
 
             // Swagger
             builder.Services.AddEndpointsApiExplorer();

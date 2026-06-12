@@ -1,3 +1,5 @@
+
+
 IGR.SuperAdmin.API/.vs/IGR.SuperAdmin.API/v18/.suo
 *.dll
 *.pdb
@@ -27,3 +29,22 @@ IGR.SuperAdmin.API/bin/Debug/net8.0/IGR.SuperAdmin.API.deps.json
 /IGR.SuperAdmin.Application/obj
 IGR.SuperAdmin.Application/obj/IGR.SuperAdmin.Application.csproj.nuget.g.props
 /IGR.SuperAdmin.Application/obj
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+ 
+# Build folders
+bin/
+obj/
+ 
+# Rider
+.idea/
+ 
+# VS Code
+.vscode/
+ 
+# Logs
+*.log
+IGR.SuperAdmin.Infrastructure/obj/Debug/net8.0/IGR.SuperAdmin.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
