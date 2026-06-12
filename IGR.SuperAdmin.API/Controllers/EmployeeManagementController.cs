@@ -1,4 +1,5 @@
 ﻿using IGR.SuperAdmin.Application.EmployeeManagement.Interfaces;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace IGR.SuperAdmin.API.Controllers 
@@ -6,6 +7,8 @@ namespace IGR.SuperAdmin.API.Controllers
 
     [ApiController]
     [Route("api/[controller]")]
+    [Authorize]
+
     public class UsernameVerify : ControllerBase
     {
         private readonly IEmployeeService _service;
