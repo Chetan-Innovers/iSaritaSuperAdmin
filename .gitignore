@@ -9,3 +9,13 @@ IGR.SuperAdmin.API/.vs/IGR.SuperAdmin.API/v18/.suo
 *.vsidx
 /IGR.SuperAdmin.API/.vs
 *.Up2Date
+/IGR.SuperAdmin.API/bin
+/IGR.SuperAdmin.API/bin/Debug
+/IGR.SuperAdmin.Application/obj
+/IGR.SuperAdmin.Application/obj
+*.editorconfig
+/IGR.SuperAdmin.Application/obj
+/IGR.SuperAdmin.Infrastructure/obj
+/IGR.SuperAdmin.Infrastructure/obj
+IGR.SuperAdmin.API/bin/Debug/net8.0/appsettings.json
+/IGR.SuperAdmin.Infrastructure/obj

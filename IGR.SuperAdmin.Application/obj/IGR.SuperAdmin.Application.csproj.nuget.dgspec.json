@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Codes\\iSaritaSuperAdmin\\IGR.SuperAdmin.Application\\IGR.SuperAdmin.Application.csproj": {}
+    "C:\\Users\\Innosystech_Pc_50\\Documents\\Sujit_Project\\New folder\\iSaritaAdmin\\IGR.SuperAdmin.Application\\IGR.SuperAdmin.Application.csproj": {}
   },
   "projects": {
-    "C:\\Codes\\iSaritaSuperAdmin\\IGR.SuperAdmin.Application\\IGR.SuperAdmin.Application.csproj": {
+    "C:\\Users\\Innosystech_Pc_50\\Documents\\Sujit_Project\\New folder\\iSaritaAdmin\\IGR.SuperAdmin.Application\\IGR.SuperAdmin.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Codes\\iSaritaSuperAdmin\\IGR.SuperAdmin.Application\\IGR.SuperAdmin.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Innosystech_Pc_50\\Documents\\Sujit_Project\\New folder\\iSaritaAdmin\\IGR.SuperAdmin.Application\\IGR.SuperAdmin.Application.csproj",
         "projectName": "IGR.SuperAdmin.Application",
-        "projectPath": "C:\\Codes\\iSaritaSuperAdmin\\IGR.SuperAdmin.Application\\IGR.SuperAdmin.Application.csproj",
-        "packagesPath": "C:\\Users\\Innosystech_Pc_04\\.nuget\\packages\\",
-        "outputPath": "C:\\Codes\\iSaritaSuperAdmin\\IGR.SuperAdmin.Application\\obj\\",
+        "projectPath": "C:\\Users\\Innosystech_Pc_50\\Documents\\Sujit_Project\\New folder\\iSaritaAdmin\\IGR.SuperAdmin.Application\\IGR.SuperAdmin.Application.csproj",
+        "packagesPath": "C:\\Users\\Innosystech_Pc_50\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Innosystech_Pc_50\\Documents\\Sujit_Project\\New folder\\iSaritaAdmin\\IGR.SuperAdmin.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Innosystech_Pc_04\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Innosystech_Pc_50\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,7 +26,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
