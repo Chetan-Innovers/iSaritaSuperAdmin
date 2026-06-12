@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IGR.SuperAdmin.Application")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+72c48283c47232f67dbad4ab309c1250a457a88b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1998d61fd3be048e197d37f6d365b211c7edb41")]
 [assembly: System.Reflection.AssemblyProductAttribute("IGR.SuperAdmin.Application")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IGR.SuperAdmin.Application")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

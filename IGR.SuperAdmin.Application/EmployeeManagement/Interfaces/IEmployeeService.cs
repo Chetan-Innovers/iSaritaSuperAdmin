@@ -11,5 +11,10 @@ namespace IGR.SuperAdmin.Application.EmployeeManagement.Interfaces
     {
         Task<bool> EmployeeExistsAsync(string username);
         Task<EmployeeExistsResponseDto> CheckUsernameAsync(string username);
+        Task<string> Register(EmployeeRegisterDto dto);
+        Task<List<EmployeeDto>> GetAll();
+        Task<EmployeeDto?> GetById(long id);
+        Task<string> Update(long id, EmployeeRegisterDto dto);
+        Task<string> Delete(long id);
     }
 }

@@ -1082,23 +1082,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Innosystech_Pc_17\\.nuget\\packages\\": {},
+    "C:\\Users\\Innosystech_Pc_50\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Innosystech_Pc_17\\OneDrive\\Documents\\SuperAdmin Latest\\iSaritaSuperAdmin\\IGR.SuperAdmin.Infrastructure\\IGR.SuperAdmin.Infrastructure.csproj",
+      "projectUniqueName": "C:\\Users\\Innosystech_Pc_50\\Documents\\Sujit_Project\\New folder\\iSaritaAdmin\\IGR.SuperAdmin.Infrastructure\\IGR.SuperAdmin.Infrastructure.csproj",
       "projectName": "IGR.SuperAdmin.Infrastructure",
-      "projectPath": "C:\\Users\\Innosystech_Pc_17\\OneDrive\\Documents\\SuperAdmin Latest\\iSaritaSuperAdmin\\IGR.SuperAdmin.Infrastructure\\IGR.SuperAdmin.Infrastructure.csproj",
-      "packagesPath": "C:\\Users\\Innosystech_Pc_17\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Innosystech_Pc_17\\OneDrive\\Documents\\SuperAdmin Latest\\iSaritaSuperAdmin\\IGR.SuperAdmin.Infrastructure\\obj\\",
+      "projectPath": "C:\\Users\\Innosystech_Pc_50\\Documents\\Sujit_Project\\New folder\\iSaritaAdmin\\IGR.SuperAdmin.Infrastructure\\IGR.SuperAdmin.Infrastructure.csproj",
+      "packagesPath": "C:\\Users\\Innosystech_Pc_50\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Innosystech_Pc_50\\Documents\\Sujit_Project\\New folder\\iSaritaAdmin\\IGR.SuperAdmin.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Innosystech_Pc_17\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Innosystech_Pc_50\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -1114,8 +1114,8 @@
           "framework": "net8.0",
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Innosystech_Pc_17\\OneDrive\\Documents\\SuperAdmin Latest\\iSaritaSuperAdmin\\IGR.SuperAdmin.Application\\IGR.SuperAdmin.Application.csproj": {
-              "projectPath": "C:\\Users\\Innosystech_Pc_17\\OneDrive\\Documents\\SuperAdmin Latest\\iSaritaSuperAdmin\\IGR.SuperAdmin.Application\\IGR.SuperAdmin.Application.csproj"
+            "C:\\Users\\Innosystech_Pc_50\\Documents\\Sujit_Project\\New folder\\iSaritaAdmin\\IGR.SuperAdmin.Application\\IGR.SuperAdmin.Application.csproj": {
+              "projectPath": "C:\\Users\\Innosystech_Pc_50\\Documents\\Sujit_Project\\New folder\\iSaritaAdmin\\IGR.SuperAdmin.Application\\IGR.SuperAdmin.Application.csproj"
             }
           }
         }

@@ -59,7 +59,30 @@ namespace IGR.SuperAdmin.Application.EmployeeManagement.Services
             return response;
         }
 
+        public async Task<string> Register(EmployeeRegisterDto dto)
+        {
+            return await _repository.Register(dto);
+        }
 
+        public async Task<List<EmployeeDto>> GetAll()
+        {
+            return await _repository.GetAll();
+        }
+
+        public async Task<EmployeeDto?> GetById(long id)
+        {
+            return await _repository.GetById(id);
+        }
+
+        public async Task<string> Update(long id, EmployeeRegisterDto dto)
+        {
+            return await _repository.Update(id, dto);
+        }
+
+        public async Task<string> Delete(long id)
+        {
+            return await _repository.Delete(id);
+        }
         public Task<bool> EmployeeExistsAsync(string username)
         {
             throw new NotImplementedException();
